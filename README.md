@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Array
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
