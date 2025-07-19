@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
