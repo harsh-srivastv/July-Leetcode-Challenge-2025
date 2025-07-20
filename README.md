@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2479-meeting-rooms-iii) |
 ## Counting
 |  |
@@ -122,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
