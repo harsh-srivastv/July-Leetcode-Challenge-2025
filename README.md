@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2479-meeting-rooms-iii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Memoization
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
