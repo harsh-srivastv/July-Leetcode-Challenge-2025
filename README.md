@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harsh-srivastv/July-Leetcode-Challenge-2025/tree/master/1510-find-lucky-integer-in-an-array) |
